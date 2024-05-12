@@ -15,3 +15,22 @@ HMo3X*x5
 http://kd.shirobju.beget.tech/bitrix/admin/
 admin
 123456
+
+
+
+<head>
+  <title>Главная</title>
+  <? $APPLICATION->ShowHead(); ?>
+<head>
+
+<link rel="stylesheet" href=<?= SITE_TEMPLATE_PATH . "/css/style.min.css" ?>>
+
+<body>
+  <div id="panel"><? $APPLICATION->ShowPanel(); ?></div>
+
+</body>
+
+
+  <link rel="stylesheet" href=<?= SITE_TEMPLATE_PATH . "/css/style.min.css" ?>>
+
+  
