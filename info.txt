@@ -1,0 +1,17 @@
+Адрес сервера (хост):
+localhost
+Имя БД:
+shirobju_kd
+Имя пользователя:
+shirobju_kd
+Пароль:
+r&5z5PkA
+
+
+shirobju.beget.tech
+shirobju_kurdvor
+HMo3X*x5
+
+http://kd.shirobju.beget.tech/bitrix/admin/
+admin
+123456
